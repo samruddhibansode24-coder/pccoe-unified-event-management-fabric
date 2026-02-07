@@ -1,5 +1,13 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Core Features
 
+1.Centralized event creation & approval
 
+2.Role-based login (Student, Coordinator, Faculty)
+
+3.QR-based attendance check-in
+
+4.Attendance verification workflow
+
+5.Certificate generation (PDF)
+
+6.Student participation dashboard
