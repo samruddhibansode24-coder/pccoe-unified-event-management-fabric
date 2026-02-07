@@ -1,0 +1,7 @@
+{
+  "name": "UCEF - Unified Campus Events Fabric",
+  "description": "A professional participation intelligence system designed to manage the full lifecycle of campus events and student engagement records.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
